@@ -67,6 +67,8 @@ ID   | Name                      | Price     | Quantity
 5    | Logitech Wireless Mouse   | 799.0     | 25
 6    | Dell 24" Monitor          | 12499.0   | 12
 
+![Inventory UI](image/viewproduct.png)
+
 
 ========= Product Inventory System =========
 1. Add Product
