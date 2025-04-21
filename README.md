@@ -24,6 +24,7 @@ This is a simple **Product Inventory Management System** built using **Java**, *
 - Command-line interface
 
 ---
+
 #OUTPUT
 
 ========= Product Inventory System =========
