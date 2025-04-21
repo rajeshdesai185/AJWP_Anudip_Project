@@ -46,12 +46,24 @@ Enter quantity: 10
 4. Delete Product
 5. Exit
 Enter your choice: 2
+========= Product Inventory System =========
+1. Add Product
+2. View Products
+3. Update Product
+4. Delete Product
+5. Exit
+Enter your choice: 2
 
 📋 List of Products:
---------------------------------------------
-ID   | Name             | Price   | Quantity
---------------------------------------------
-1    | Apple iPhone 15  | 89999.0 | 10
+---------------------------------------------------------
+ID   | Name                      | Price     | Quantity
+---------------------------------------------------------
+1    | Apple iPhone 15           | 89999.0   | 10
+2    | Samsung Galaxy A54        | 35999.0   | 20
+3    | HP Pavilion Laptop        | 58999.0   | 8
+4    | Boat Airdopes 161         | 1299.0    | 50
+5    | Logitech Wireless Mouse   | 799.0     | 25
+6    | Dell 24" Monitor          | 12499.0   | 12
 
 
 ========= Product Inventory System =========
