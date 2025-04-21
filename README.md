@@ -24,4 +24,61 @@ This is a simple **Product Inventory Management System** built using **Java**, *
 - Command-line interface
 
 ---
+#OUTPUT
+
+========= Product Inventory System =========
+1. Add Product
+2. View Products
+3. Update Product
+4. Delete Product
+5. Exit
+Enter your choice: 1
+
+Enter product name: Apple iPhone 15
+Enter price: 89999
+Enter quantity: 10
+✅ Product added successfully!
+
+========= Product Inventory System =========
+1. Add Product
+2. View Products
+3. Update Product
+4. Delete Product
+5. Exit
+Enter your choice: 2
+
+📋 List of Products:
+--------------------------------------------
+ID   | Name             | Price   | Quantity
+--------------------------------------------
+1    | Apple iPhone 15  | 89999.0 | 10
+
+
+========= Product Inventory System =========
+1. Add Product
+2. View Products
+3. Update Product
+4. Delete Product
+5. Exit
+Enter your choice: 3
+
+Enter product ID to update: 1
+Enter new product name: iPhone 15 Pro
+Enter new price: 109999
+Enter new quantity: 15
+✅ Product updated successfully!
+
+
+========= Product Inventory System =========
+1. Add Product
+2. View Products
+3. Update Product
+4. Delete Product
+5. Exit
+Enter your choice: 4
+
+Enter product ID to delete: 1
+✅ Product deleted successfully!
+
+
 
