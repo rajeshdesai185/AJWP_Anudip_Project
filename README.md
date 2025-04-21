@@ -39,7 +39,10 @@ Enter product name: Apple iPhone 15
 Enter price: 89999
 Enter quantity: 10
 ✅ Product added successfully!
+
+
 ![Inventory UI](images/addProduct.png)
+
 
 ========= Product Inventory System =========
 1. Add Product
@@ -55,6 +58,7 @@ ID   | Name                      | Price     | Quantity
 ---------------------------------------------------------
 1    | Apple iPhone 15           | 89999.0   | 10
 
+
 ![Inventory UI](images/viewproduct.png)
 
 
@@ -66,7 +70,9 @@ ID   | Name                      | Price     | Quantity
 5. Exit
 Enter your choice: 3
 
+
 ![Inventory UI](images/update.png)
+
 
 ========= Product Inventory System =========
 1. Add Product
@@ -75,6 +81,7 @@ Enter your choice: 3
 4. Delete Product
 5. Exit
 Enter your choice: 4
+
 
 ![Inventory UI](images/delete.png)
 
