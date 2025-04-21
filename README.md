@@ -46,6 +46,7 @@ Enter quantity: 10
 4. Delete Product
 5. Exit
 Enter your choice: 2
+
 ========= Product Inventory System =========
 1. Add Product
 2. View Products
