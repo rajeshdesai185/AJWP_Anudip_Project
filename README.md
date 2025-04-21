@@ -18,10 +18,13 @@ This is a simple **Product Inventory Management System** built using **Java**, *
 
 ## 🧰 Technologies Used
 
-- Java
-- JDBC (Java Database Connectivity)
-- MySQL
-- Command-line interface
+| Technology | Purpose                      |
+|------------|------------------------------|
+| Java       | Core language (JDK 8 or above) |
+| JDBC       | Database connectivity        |
+| MySQL      | Relational database          |
+| CLI        | Console-based user interface |
+
 
 ---
 
